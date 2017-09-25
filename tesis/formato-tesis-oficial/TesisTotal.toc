@@ -1,0 +1,18 @@
+\select@language {spanish}
+\contentsline {chapter}{\IeC {\'I}NDICE DE FIGURAS}{\es@scroman {iv}}{chapter*.7}
+\contentsline {chapter}{\IeC {\'I}NDICE DE TABLAS}{\es@scroman {v}}{chapter*.8}
+\contentsline {chapter}{LISTA DE S\IeC {\'I}MBOLOS}{\es@scroman {vii}}{chapter*.9}
+\contentsline {chapter}{OBJETIVOS}{\es@scroman {ix}}{chapter*.10}
+\contentsline {chapter}{INTRODUCCI\IeC {\'O}N}{\es@scroman {xi}}{chapter*.13}
+\contentsline {chapter}{\numberline {1}CONCEPTOS B\IeC {\'A}SICOS DE TEOR\IeC {\'I}A DE NUDOS}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Nudos y enlaces}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Nudos}{1}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Enlaces}{6}{subsection.1.1.2}
+\contentsline {section}{\numberline {1.2}Notaci\IeC {\'o}n de Dowker y notaci\IeC {\'o}n de Conway}{9}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Notaci\IeC {\'o}n de Dowker}{9}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Notaci\IeC {\'o}n de Conway}{13}{subsection.1.2.2}
+\contentsline {chapter}{\numberline {2}Tipos de Nudos}{21}{chapter.2}
+\contentsline {section}{\numberline {2.1}Nudos T\IeC {\'o}ricos}{21}{section.2.1}
+\contentsline {chapter}{CONCLUSIONES}{25}{chapter*.55}
+\contentsline {chapter}{RECOMENDACIONES}{27}{chapter*.56}
+\contentsline {chapter}{BIBLIOGRAF\'IA}{29}{chapter*.57}
